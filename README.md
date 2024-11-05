@@ -12,6 +12,15 @@ Go to INTERFACE-WIFI file and use "cargo run" command
 this will run your CLI application.
 Select a wireless interface from the listed options.
 Confirm the action to set the selected interface to monitor mode automatically.
+![![alt text](https://github.com/3lvin-Kc/INTERFACE-WIFI/blob/master/Screenshot_2024-11-05_14-50-23.png)]
+
+
+
+
+
+
+
+
 
 
 
